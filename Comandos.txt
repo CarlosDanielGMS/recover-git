@@ -29,6 +29,7 @@ git log --all
 git checkout 330f3852df79ac74fbe29912a10ef52734305406
 git tag -a stable -m "Versão estável"
 git push origin stable
+git checkout main
 [Arquivo "Comandos.txt" criado pelo Explorador de Arquivos usando o Bloco de Notas do Windows]
 git add Comandos.txt
 git commit -m "Comandos adicionados"
